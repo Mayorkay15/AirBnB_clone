@@ -1,4 +1,0 @@
-# This file lists all individuals having contributed content to the repository.
-
-Arogbodo Mayowa <mayorkay15@gmail.com>
-Abreham Melese <.com>
